@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Matheus-Ei
 - 👀 I’m interested in deep learning, front-end, back-end and web-development
-- 🌱 I’m currently learning python, C++, C#, HTML, Css, JavaScript, PHP and SQL
+- 🧨 I already know how to program in languages ​​like Python, HTML and CSS
+- 🌱 I’m currently learning C++, C#, JavaScript, PHP and SQL
 - 💞️ I'm taking a computer science course.
 - 📫 To reach me eickoffmatheus@gmail.com
