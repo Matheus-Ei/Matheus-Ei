@@ -8,6 +8,12 @@
 > - 🧨 I already know how to program in languages ​​like Python, HTML and CSS
 > - 🌱 I’m currently learning C++, C#, JavaScript, PHP and SQL
 
+> [!IMPORTANT]
+> My Personal Assistent:
+> - I am doing a personal 🤖 assistent 
+> - I am doing this to learn more 📖 about Python and back-end
+> - Older versions of the system are publicly available 🌐
+
 ![image](https://github.com/Matheus-Ei/Matheus-Ei/assets/127603510/f1fe0e15-845d-4d4a-baae-712fe3fd16ce)
 
 > [!IMPORTANT]
@@ -17,14 +23,5 @@
 > - Doing this project i already learned HTML, SQL, JavaScript, PHP and CSS
 > - Go there now to find out more about it --> www.finflow.cc
 
-
-
 > [!NOTE]
 > To reach me: eickoffmatheus@gmail.com
-
-
-> [!IMPORTANT]
-> My Personal Assistent:
-> - I am doing a personal 🤖 assistent 
-> - I am doing this to learn more 📖 about Python and back-end
-> - Older versions of the system are publicly available 🌐
