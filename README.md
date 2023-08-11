@@ -17,7 +17,7 @@
 > - Doing this project i already learned HTML, SQL, JavaScript, PHP and CSS
 > - Go there now to find out more about it --> www.finflow.cc
 
-> [!IMPORTANT]
+
 > My Personal Assistent:
 > - I am doing a personal 🤖 assistent 
 > - I am doing this to learn more 📖 about Python and back-end
