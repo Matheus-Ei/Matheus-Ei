@@ -1,5 +1,5 @@
 <div align="center">
-<h3>👋 Hi, I’m @Matheus-Ei</h3>
+<h2>👋 Hi, I’m @Matheus-Ei</h2>
 <p>I'm taking a computer science 🤖 course.</p>
 </div>
 
@@ -10,12 +10,12 @@
 
 ![image](https://github.com/Matheus-Ei/Matheus-Ei/assets/127603510/f1fe0e15-845d-4d4a-baae-712fe3fd16ce)
 
+> [!IMPORTANT]
 > My Website:
 > - I am doing a website 😍
 > - Yeah 🎃 i am doing this to learn more about web development, SQL and Front-end
 > - Doing this project i already learned HTML, SQL, JavaScript, PHP and CSS
 > - Go there now to find out more about it --> www.finflow.cc
-
 > My Personal Assistent:
 > - I am doing a personal 🤖 assistent 
 > - I am doing this to learn more 📖 about Python and back-end
