@@ -12,5 +12,4 @@
 ![image](https://github.com/Matheus-Ei/Matheus-Ei/assets/127603510/f1fe0e15-845d-4d4a-baae-712fe3fd16ce)
 
 > [!NOTE]
-> To reach 📫 me:
-> eickoffmatheus@gmail.com
+> To reach me: eickoffmatheus@gmail.com
