@@ -18,10 +18,13 @@
 > - Go there now to find out more about it --> www.finflow.cc
 
 
+
+> [!NOTE]
+> To reach me: eickoffmatheus@gmail.com
+
+
+> [!IMPORTANT]
 > My Personal Assistent:
 > - I am doing a personal 🤖 assistent 
 > - I am doing this to learn more 📖 about Python and back-end
 > - Older versions of the system are publicly available 🌐
-
-> [!NOTE]
-> To reach me: eickoffmatheus@gmail.com
