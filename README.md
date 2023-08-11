@@ -5,7 +5,7 @@
 
 
 
-> - <p>👌 About me:</p>
+> - About me:
 > - 👀 I’m interested in deep learning, front-end, back-end and web-development
 > - 🧨 I already know how to program in languages ​​like Python, HTML and CSS
 > - 🌱 I’m currently learning C++, C#, JavaScript, PHP and SQL
