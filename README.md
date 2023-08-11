@@ -4,3 +4,6 @@
 - 🌱 I’m currently learning C++, C#, JavaScript, PHP and SQL
 - 💞️ I'm taking a computer science course.
 - 📫 To reach me eickoffmatheus@gmail.com
+
+![image](https://github.com/Matheus-Ei/Matheus-Ei/assets/127603510/f1fe0e15-845d-4d4a-baae-712fe3fd16ce)
+
