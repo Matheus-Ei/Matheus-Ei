@@ -6,7 +6,7 @@
 > About Me 👌:
 > - 👀 I’m interested in full-stack development
 > - 🧨 I already know how to program in languages ​​like Python, SQL, HTML and CSS
-> - 🌱 I’m currently learning more about Python
+> - 🌱 I’m currently learning more about C#
 
 > [!IMPORTANT]
 > My Personal Assistent:
