@@ -8,7 +8,7 @@
 > - 🧨 I already know how to program in languages ​​like Python
 > - 🌱 I’m currently learning more about C++, Java and SQL
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Ei&theme=tokyonight)
 
 > [!NOTE]
 > To reach me: t4igacomercial@gmail.com
